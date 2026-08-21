@@ -103,13 +103,13 @@ Notes: input paths are compile-time constants in `utility.h` (`Dati/…`); the r
 
 ## 2026 retrospective — memory-safety review
 
-Re-auditing the code with AddressSanitizer six years later (a useful exercise: MSVC's stack layout had silently masked all three) surfaced three genuine memory bugs, fixed in [`fixes-v6.patch`](fixes-v6.patch):
+Re-auditing the code with AddressSanitizer six years later (a useful exercise: MSVC's stack layout had silently masked all three) surfaced three genuine memory bugs, fixed in [a single audit commit](https://github.com/gcadau/Pylot-BT/commit/COMMITSHA):
 
 1. **Stack overflow on parse** — `allocaTeste` passed a 20-byte buffer to an `fgets` bounded at 200 (`allocazione.c`); the header line is 21 bytes.
 2. **Heap off-by-one in group enumeration** — `path` allocated `card` ints for a vector that also stores the `-1` sentinel at index `card` (`algoritmo.c`).
 3. **Shifted copy + missing sentinel in deduplication** — `checkDuplicati` copied rows with a post-incremented index (element 0 never written, sentinel dropped), so set-equality scanned past the buffer and duplicate detection was unreliable (`matrix.c`).
 
-With the patch applied, v6.3.1 builds clean and the full multi-start exploration (≈10⁴ start combinations) runs to completion on Linux. Under the committed head-clearance parameters it terminates without a feasible plan — consistent with `TO DO` on `master`, which shows the physical clearance constants were still being tuned with Seica when the internship ended; the committed v0 sample plans were produced under the earlier, wider tolerances.
+With the three one-line fixes applied, v6.3.1 builds clean and the full multi-start exploration (≈10⁴ start combinations) runs to completion on Linux. Under the committed head-clearance parameters it terminates without a feasible plan — consistent with `TO DO` on `master`, which shows the physical clearance constants were still being tuned with Seica when the internship ended; the committed v0 sample plans were produced under the earlier, wider tolerances.
 
 Known prototype limitations, left as-is intentionally: config via compile-time macros, `fscanf`-based parsing, per-step group choice is greedy-guided rather than exhaustive, and teardown does not free every allocation.
 
