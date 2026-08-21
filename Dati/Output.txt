@@ -1,0 +1,1300 @@
+Movimento 1
+Cella denominata: A04, con coordinate: (34.000000, 235.800003)
+
+Cella denominata: A08, con coordinate: (72.000000, 235.800003)
+Cella denominata: A10, con coordinate: (91.000000, 235.800003)
+Cella denominata: A12, con coordinate: (110.000000, 235.800003)
+
+Cella denominata: B13, con coordinate: (119.500000, 219.350006)
+Cella denominata: B15, con coordinate: (138.500000, 219.350006)
+Cella denominata: A14, con coordinate: (129.000000, 235.800003)
+Cella denominata: A16, con coordinate: (148.000000, 235.800003)
+
+Cella denominata: A20, con coordinate: (186.000000, 235.800003)
+Cella denominata: A22, con coordinate: (205.000000, 235.800003)
+Cella denominata: A24, con coordinate: (224.000000, 235.800003)
+
+
+
+Movimento 2
+Cella denominata: B05, con coordinate: (43.500000, 219.350006)
+
+Cella denominata: B09, con coordinate: (81.500000, 219.350006)
+Cella denominata: B11, con coordinate: (100.500000, 219.350006)
+Cella denominata: B13, con coordinate: (119.500000, 219.350006)
+
+Cella denominata: B15, con coordinate: (138.500000, 219.350006)
+Cella denominata: B17, con coordinate: (157.500000, 219.350006)
+Cella denominata: A16, con coordinate: (148.000000, 235.800003)
+Cella denominata: A18, con coordinate: (167.000000, 235.800003)
+
+Cella denominata: B19, con coordinate: (176.500000, 219.350006)
+Cella denominata: B21, con coordinate: (195.500000, 219.350006)
+Cella denominata: B23, con coordinate: (214.500000, 219.350006)
+
+
+
+Movimento 3
+Cella denominata: A06, con coordinate: (53.000000, 235.800003)
+
+Cella denominata: A10, con coordinate: (91.000000, 235.800003)
+Cella denominata: A12, con coordinate: (110.000000, 235.800003)
+Cella denominata: A14, con coordinate: (129.000000, 235.800003)
+
+Cella denominata: F15, con coordinate: (138.500000, 144.440002)
+Cella denominata: F17, con coordinate: (157.500000, 144.440002)
+Cella denominata: E16, con coordinate: (148.000000, 160.889999)
+Cella denominata: E18, con coordinate: (167.000000, 160.889999)
+
+Cella denominata: A20, con coordinate: (186.000000, 235.800003)
+Cella denominata: A22, con coordinate: (205.000000, 235.800003)
+Cella denominata: A24, con coordinate: (224.000000, 235.800003)
+
+
+
+Movimento 4
+Cella denominata: B07, con coordinate: (62.500000, 219.350006)
+
+Cella denominata: B11, con coordinate: (100.500000, 219.350006)
+Cella denominata: B13, con coordinate: (119.500000, 219.350006)
+Cella denominata: B15, con coordinate: (138.500000, 219.350006)
+
+Cella denominata: F17, con coordinate: (157.500000, 144.440002)
+Cella denominata: F19, con coordinate: (176.500000, 144.440002)
+Cella denominata: E18, con coordinate: (167.000000, 160.889999)
+Cella denominata: E20, con coordinate: (186.000000, 160.889999)
+
+Cella denominata: B21, con coordinate: (195.500000, 219.350006)
+Cella denominata: B23, con coordinate: (214.500000, 219.350006)
+Cella denominata: B25, con coordinate: (233.500000, 219.350006)
+
+
+
+Movimento 5
+Cella denominata: C06, con coordinate: (53.000000, 198.350006)
+
+Cella denominata: C10, con coordinate: (91.000000, 198.350006)
+Cella denominata: C12, con coordinate: (110.000000, 198.350006)
+Cella denominata: C14, con coordinate: (129.000000, 198.350006)
+
+Cella denominata: F21, con coordinate: (195.500000, 144.440002)
+Cella denominata: F23, con coordinate: (214.500000, 144.440002)
+Cella denominata: E22, con coordinate: (205.000000, 160.889999)
+Cella denominata: E24, con coordinate: (224.000000, 160.889999)
+
+Cella denominata: D27, con coordinate: (255.500000, 181.889999)
+Cella denominata: D29, con coordinate: (274.500000, 181.889999)
+Cella denominata: D31, con coordinate: (293.500000, 181.889999)
+
+
+
+Movimento 6
+Cella denominata: C04, con coordinate: (34.000000, 198.350006)
+
+Cella denominata: D09, con coordinate: (81.500000, 181.889999)
+Cella denominata: D11, con coordinate: (100.500000, 181.889999)
+Cella denominata: D13, con coordinate: (119.500000, 181.889999)
+
+Cella denominata: F25, con coordinate: (236.500000, 144.440002)
+Cella denominata: F27, con coordinate: (255.500000, 144.440002)
+Cella denominata: E26, con coordinate: (246.000000, 160.889999)
+Cella denominata: E28, con coordinate: (265.000000, 160.889999)
+
+Cella denominata: D33, con coordinate: (315.500000, 181.889999)
+Cella denominata: D35, con coordinate: (334.500000, 181.889999)
+Cella denominata: D37, con coordinate: (353.500000, 181.889999)
+
+
+
+Movimento 7
+Cella denominata: C02, con coordinate: (15.000000, 198.350006)
+
+Cella denominata: E08, con coordinate: (72.000000, 160.889999)
+Cella denominata: E10, con coordinate: (91.000000, 160.889999)
+Cella denominata: E12, con coordinate: (110.000000, 160.889999)
+
+Cella denominata: F29, con coordinate: (274.500000, 144.440002)
+Cella denominata: F31, con coordinate: (293.500000, 144.440002)
+Cella denominata: E30, con coordinate: (284.000000, 160.889999)
+Cella denominata: E32, con coordinate: (303.000000, 160.889999)
+
+Cella denominata: C34, con coordinate: (325.000000, 198.350006)
+Cella denominata: C36, con coordinate: (344.000000, 198.350006)
+Cella denominata: C38, con coordinate: (363.000000, 198.350006)
+
+
+
+Movimento 8
+Cella denominata: D03, con coordinate: (24.500000, 181.889999)
+
+Cella denominata: F07, con coordinate: (62.500000, 144.440002)
+Cella denominata: F09, con coordinate: (81.500000, 144.440002)
+Cella denominata: F11, con coordinate: (100.500000, 144.440002)
+
+Cella denominata: F33, con coordinate: (315.500000, 144.440002)
+Cella denominata: F35, con coordinate: (334.500000, 144.440002)
+Cella denominata: E34, con coordinate: (325.000000, 160.889999)
+Cella denominata: E36, con coordinate: (344.000000, 160.889999)
+
+Cella denominata: D37, con coordinate: (353.500000, 181.889999)
+Cella denominata: D39, con coordinate: (372.500000, 181.889999)
+Cella denominata: D41, con coordinate: (391.500000, 181.889999)
+
+
+
+Movimento 9
+Cella denominata: D05, con coordinate: (43.500000, 181.889999)
+
+Cella denominata: E08, con coordinate: (72.000000, 160.889999)
+Cella denominata: E10, con coordinate: (91.000000, 160.889999)
+Cella denominata: E12, con coordinate: (110.000000, 160.889999)
+
+Cella denominata: F35, con coordinate: (334.500000, 144.440002)
+Cella denominata: F37, con coordinate: (353.500000, 144.440002)
+Cella denominata: E36, con coordinate: (344.000000, 160.889999)
+Cella denominata: E38, con coordinate: (363.000000, 160.889999)
+
+Cella denominata: D39, con coordinate: (372.500000, 181.889999)
+Cella denominata: D41, con coordinate: (391.500000, 181.889999)
+Cella denominata: D43, con coordinate: (410.500000, 181.889999)
+
+
+
+Movimento 10
+Cella denominata: D07, con coordinate: (62.500000, 181.889999)
+
+Cella denominata: E10, con coordinate: (91.000000, 160.889999)
+Cella denominata: E12, con coordinate: (110.000000, 160.889999)
+Cella denominata: E14, con coordinate: (129.000000, 160.889999)
+
+Cella denominata: F39, con coordinate: (372.500000, 144.440002)
+Cella denominata: F41, con coordinate: (391.500000, 144.440002)
+Cella denominata: E40, con coordinate: (382.000000, 160.889999)
+Cella denominata: E42, con coordinate: (401.000000, 160.889999)
+
+Cella denominata: D43, con coordinate: (410.500000, 181.889999)
+Cella denominata: D45, con coordinate: (429.500000, 181.889999)
+Cella denominata: D47, con coordinate: (448.500000, 181.889999)
+
+
+
+Movimento 11
+Cella denominata: C08, con coordinate: (72.000000, 198.350006)
+
+Cella denominata: F11, con coordinate: (100.500000, 144.440002)
+Cella denominata: F13, con coordinate: (119.500000, 144.440002)
+Cella denominata: F15, con coordinate: (138.500000, 144.440002)
+
+Cella denominata: F43, con coordinate: (410.500000, 144.440002)
+Cella denominata: F45, con coordinate: (429.500000, 144.440002)
+Cella denominata: E44, con coordinate: (420.000000, 160.889999)
+Cella denominata: E46, con coordinate: (439.000000, 160.889999)
+
+Cella denominata: B47, con coordinate: (448.500000, 219.350006)
+Cella denominata: B49, con coordinate: (467.500000, 219.350006)
+Cella denominata: B51, con coordinate: (486.500000, 219.350006)
+
+
+
+Movimento 12
+Cella denominata: E06, con coordinate: (53.000000, 160.889999)
+
+Cella denominata: G10, con coordinate: (91.000000, 123.440002)
+Cella denominata: G12, con coordinate: (110.000000, 123.440002)
+Cella denominata: G14, con coordinate: (129.000000, 123.440002)
+
+Cella denominata: F47, con coordinate: (448.500000, 144.440002)
+Cella denominata: F49, con coordinate: (467.500000, 144.440002)
+Cella denominata: E48, con coordinate: (458.000000, 160.889999)
+Cella denominata: E50, con coordinate: (477.000000, 160.889999)
+
+Cella denominata: C52, con coordinate: (499.000000, 198.350006)
+Cella denominata: C54, con coordinate: (518.000000, 198.350006)
+Cella denominata: C56, con coordinate: (537.000000, 198.350006)
+
+
+
+Movimento 13
+Cella denominata: F05, con coordinate: (43.500000, 144.440002)
+
+Cella denominata: H09, con coordinate: (81.500000, 106.980003)
+Cella denominata: H11, con coordinate: (100.500000, 106.980003)
+Cella denominata: H13, con coordinate: (119.500000, 106.980003)
+
+Cella denominata: F51, con coordinate: (489.500000, 144.440002)
+Cella denominata: F53, con coordinate: (508.500000, 144.440002)
+Cella denominata: E52, con coordinate: (499.000000, 160.889999)
+Cella denominata: E54, con coordinate: (518.000000, 160.889999)
+
+Cella denominata: D55, con coordinate: (527.500000, 181.889999)
+Cella denominata: D57, con coordinate: (546.500000, 181.889999)
+Cella denominata: D59, con coordinate: (565.500000, 181.889999)
+
+
+
+Movimento 14
+Cella denominata: E04, con coordinate: (34.000000, 160.889999)
+
+Cella denominata: I08, con coordinate: (72.000000, 85.980003)
+Cella denominata: I10, con coordinate: (91.000000, 85.980003)
+Cella denominata: I12, con coordinate: (110.000000, 85.980003)
+
+Cella denominata: F55, con coordinate: (527.500000, 144.440002)
+Cella denominata: F57, con coordinate: (546.500000, 144.440002)
+Cella denominata: E56, con coordinate: (537.000000, 160.889999)
+Cella denominata: E58, con coordinate: (556.000000, 160.889999)
+
+Cella denominata: D59, con coordinate: (565.500000, 181.889999)
+Cella denominata: D61, con coordinate: (584.500000, 181.889999)
+Cella denominata: D63, con coordinate: (603.500000, 181.889999)
+
+
+
+Movimento 15
+Cella denominata: F03, con coordinate: (24.500000, 144.440002)
+
+Cella denominata: J07, con coordinate: (62.500000, 69.529999)
+Cella denominata: J09, con coordinate: (81.500000, 69.529999)
+Cella denominata: J11, con coordinate: (100.500000, 69.529999)
+
+Cella denominata: F59, con coordinate: (565.500000, 144.440002)
+Cella denominata: F61, con coordinate: (584.500000, 144.440002)
+Cella denominata: E60, con coordinate: (575.000000, 160.889999)
+Cella denominata: E62, con coordinate: (594.000000, 160.889999)
+
+- Testa a riposo -
+
+
+
+Movimento 16
+Cella denominata: E02, con coordinate: (15.000000, 160.889999)
+
+Cella denominata: K06, con coordinate: (53.000000, 48.529999)
+Cella denominata: K08, con coordinate: (72.000000, 48.529999)
+Cella denominata: K10, con coordinate: (91.000000, 48.529999)
+
+Cella denominata: B59, con coordinate: (565.500000, 219.350006)
+Cella denominata: B61, con coordinate: (584.500000, 219.350006)
+Cella denominata: A60, con coordinate: (575.000000, 235.800003)
+Cella denominata: A62, con coordinate: (594.000000, 235.800003)
+
+- Testa a riposo -
+
+
+
+Movimento 17
+Cella denominata: F01, con coordinate: (5.500000, 144.440002)
+
+Cella denominata: L05, con coordinate: (43.500000, 32.070000)
+Cella denominata: L07, con coordinate: (62.500000, 32.070000)
+Cella denominata: L09, con coordinate: (81.500000, 32.070000)
+
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: B57, con coordinate: (546.500000, 219.350006)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+Cella denominata: A58, con coordinate: (556.000000, 235.800003)
+
+Cella denominata: C60, con coordinate: (575.000000, 198.350006)
+Cella denominata: C62, con coordinate: (594.000000, 198.350006)
+Cella denominata: C64, con coordinate: (613.000000, 198.350006)
+
+
+
+Movimento 18
+Cella denominata: G02, con coordinate: (15.000000, 123.440002)
+
+Cella denominata: L07, con coordinate: (62.500000, 32.070000)
+Cella denominata: L09, con coordinate: (81.500000, 32.070000)
+Cella denominata: L11, con coordinate: (100.500000, 32.070000)
+
+Cella denominata: B43, con coordinate: (410.500000, 219.350006)
+Cella denominata: B45, con coordinate: (429.500000, 219.350006)
+Cella denominata: A44, con coordinate: (420.000000, 235.800003)
+Cella denominata: A46, con coordinate: (439.000000, 235.800003)
+
+Cella denominata: G60, con coordinate: (575.000000, 123.440002)
+Cella denominata: G62, con coordinate: (594.000000, 123.440002)
+Cella denominata: G64, con coordinate: (613.000000, 123.440002)
+
+
+
+Movimento 19
+Cella denominata: G04, con coordinate: (34.000000, 123.440002)
+
+Cella denominata: L09, con coordinate: (81.500000, 32.070000)
+Cella denominata: L11, con coordinate: (100.500000, 32.070000)
+Cella denominata: L13, con coordinate: (119.500000, 32.070000)
+
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+
+Cella denominata: H59, con coordinate: (565.500000, 106.980003)
+Cella denominata: H61, con coordinate: (584.500000, 106.980003)
+Cella denominata: H63, con coordinate: (603.500000, 106.980003)
+
+
+
+Movimento 20
+Cella denominata: G06, con coordinate: (53.000000, 123.440002)
+
+Cella denominata: L11, con coordinate: (100.500000, 32.070000)
+Cella denominata: L13, con coordinate: (119.500000, 32.070000)
+Cella denominata: L15, con coordinate: (138.500000, 32.070000)
+
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: B37, con coordinate: (353.500000, 219.350006)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+Cella denominata: A38, con coordinate: (363.000000, 235.800003)
+
+Cella denominata: I58, con coordinate: (556.000000, 85.980003)
+Cella denominata: I60, con coordinate: (575.000000, 85.980003)
+Cella denominata: I62, con coordinate: (594.000000, 85.980003)
+
+
+
+Movimento 21
+Cella denominata: G08, con coordinate: (72.000000, 123.440002)
+
+Cella denominata: K12, con coordinate: (110.000000, 48.529999)
+Cella denominata: K14, con coordinate: (129.000000, 48.529999)
+Cella denominata: K16, con coordinate: (148.000000, 48.529999)
+
+Cella denominata: B29, con coordinate: (274.500000, 219.350006)
+Cella denominata: B31, con coordinate: (293.500000, 219.350006)
+Cella denominata: A30, con coordinate: (284.000000, 235.800003)
+Cella denominata: A32, con coordinate: (303.000000, 235.800003)
+
+Cella denominata: J57, con coordinate: (546.500000, 69.529999)
+Cella denominata: J59, con coordinate: (565.500000, 69.529999)
+Cella denominata: J61, con coordinate: (584.500000, 69.529999)
+
+
+
+Movimento 22
+Cella denominata: H07, con coordinate: (62.500000, 106.980003)
+
+Cella denominata: J13, con coordinate: (119.500000, 69.529999)
+Cella denominata: J15, con coordinate: (138.500000, 69.529999)
+Cella denominata: J17, con coordinate: (157.500000, 69.529999)
+
+Cella denominata: B25, con coordinate: (233.500000, 219.350006)
+Cella denominata: B27, con coordinate: (252.500000, 219.350006)
+Cella denominata: A26, con coordinate: (243.000000, 235.800003)
+Cella denominata: A28, con coordinate: (262.000000, 235.800003)
+
+Cella denominata: K56, con coordinate: (537.000000, 48.529999)
+Cella denominata: K58, con coordinate: (556.000000, 48.529999)
+Cella denominata: K60, con coordinate: (575.000000, 48.529999)
+
+
+
+Movimento 23
+Cella denominata: H05, con coordinate: (43.500000, 106.980003)
+
+Cella denominata: I14, con coordinate: (129.000000, 85.980003)
+Cella denominata: I16, con coordinate: (148.000000, 85.980003)
+Cella denominata: I18, con coordinate: (167.000000, 85.980003)
+
+Cella denominata: B33, con coordinate: (315.500000, 219.350006)
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: A34, con coordinate: (325.000000, 235.800003)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+
+Cella denominata: L55, con coordinate: (527.500000, 32.070000)
+Cella denominata: L57, con coordinate: (546.500000, 32.070000)
+Cella denominata: L59, con coordinate: (565.500000, 32.070000)
+
+
+
+Movimento 24
+Cella denominata: H03, con coordinate: (24.500000, 106.980003)
+
+Cella denominata: H15, con coordinate: (138.500000, 106.980003)
+Cella denominata: H17, con coordinate: (157.500000, 106.980003)
+Cella denominata: H19, con coordinate: (176.500000, 106.980003)
+
+Cella denominata: B47, con coordinate: (448.500000, 219.350006)
+Cella denominata: B49, con coordinate: (467.500000, 219.350006)
+Cella denominata: A48, con coordinate: (458.000000, 235.800003)
+Cella denominata: A50, con coordinate: (477.000000, 235.800003)
+
+Cella denominata: M54, con coordinate: (518.000000, 11.070000)
+Cella denominata: M56, con coordinate: (537.000000, 11.070000)
+Cella denominata: M58, con coordinate: (556.000000, 11.070000)
+
+
+
+Movimento 25
+Cella denominata: H01, con coordinate: (5.500000, 106.980003)
+
+Cella denominata: G16, con coordinate: (148.000000, 123.440002)
+Cella denominata: G18, con coordinate: (167.000000, 123.440002)
+Cella denominata: G20, con coordinate: (186.000000, 123.440002)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: N57, con coordinate: (546.500000, -5.380000)
+Cella denominata: N59, con coordinate: (565.500000, -5.380000)
+Cella denominata: N61, con coordinate: (584.500000, -5.380000)
+
+
+
+Movimento 26
+Cella denominata: I02, con coordinate: (15.000000, 85.980003)
+
+Cella denominata: D15, con coordinate: (138.500000, 181.889999)
+Cella denominata: D17, con coordinate: (157.500000, 181.889999)
+Cella denominata: D19, con coordinate: (176.500000, 181.889999)
+
+Cella denominata: B61, con coordinate: (584.500000, 219.350006)
+Cella denominata: B63, con coordinate: (603.500000, 219.350006)
+Cella denominata: A62, con coordinate: (594.000000, 235.800003)
+Cella denominata: A64, con coordinate: (613.000000, 235.800003)
+
+- Testa a riposo -
+
+
+
+Movimento 27
+Cella denominata: J01, con coordinate: (5.500000, 69.529999)
+
+Cella denominata: C16, con coordinate: (148.000000, 198.350006)
+Cella denominata: C18, con coordinate: (167.000000, 198.350006)
+Cella denominata: C20, con coordinate: (186.000000, 198.350006)
+
+Cella denominata: F61, con coordinate: (584.500000, 144.440002)
+Cella denominata: F63, con coordinate: (603.500000, 144.440002)
+Cella denominata: E62, con coordinate: (594.000000, 160.889999)
+Cella denominata: E64, con coordinate: (613.000000, 160.889999)
+
+- Testa a riposo -
+
+
+
+Movimento 28
+Cella denominata: J03, con coordinate: (24.500000, 69.529999)
+
+Cella denominata: D21, con coordinate: (195.500000, 181.889999)
+Cella denominata: D23, con coordinate: (214.500000, 181.889999)
+Cella denominata: D25, con coordinate: (233.500000, 181.889999)
+
+Cella denominata: B49, con coordinate: (467.500000, 219.350006)
+Cella denominata: B51, con coordinate: (486.500000, 219.350006)
+Cella denominata: A50, con coordinate: (477.000000, 235.800003)
+Cella denominata: A52, con coordinate: (496.000000, 235.800003)
+
+Cella denominata: M60, con coordinate: (575.000000, 11.070000)
+Cella denominata: M62, con coordinate: (594.000000, 11.070000)
+Cella denominata: M64, con coordinate: (613.000000, 11.070000)
+
+
+
+Movimento 29
+Cella denominata: I04, con coordinate: (34.000000, 85.980003)
+
+Cella denominata: C22, con coordinate: (205.000000, 198.350006)
+Cella denominata: C24, con coordinate: (224.000000, 198.350006)
+Cella denominata: C26, con coordinate: (243.000000, 198.350006)
+
+Cella denominata: B47, con coordinate: (448.500000, 219.350006)
+Cella denominata: B49, con coordinate: (467.500000, 219.350006)
+Cella denominata: A48, con coordinate: (458.000000, 235.800003)
+Cella denominata: A50, con coordinate: (477.000000, 235.800003)
+
+Cella denominata: N51, con coordinate: (489.500000, -5.380000)
+Cella denominata: N53, con coordinate: (508.500000, -5.380000)
+Cella denominata: N55, con coordinate: (527.500000, -5.380000)
+
+
+
+Movimento 30
+Cella denominata: J05, con coordinate: (43.500000, 69.529999)
+
+Cella denominata: C28, con coordinate: (265.000000, 198.350006)
+Cella denominata: C30, con coordinate: (284.000000, 198.350006)
+Cella denominata: C32, con coordinate: (303.000000, 198.350006)
+
+Cella denominata: B45, con coordinate: (429.500000, 219.350006)
+Cella denominata: B47, con coordinate: (448.500000, 219.350006)
+Cella denominata: A46, con coordinate: (439.000000, 235.800003)
+Cella denominata: A48, con coordinate: (458.000000, 235.800003)
+
+Cella denominata: M50, con coordinate: (480.000000, 11.070000)
+Cella denominata: M52, con coordinate: (499.000000, 11.070000)
+Cella denominata: M54, con coordinate: (518.000000, 11.070000)
+
+
+
+Movimento 31
+Cella denominata: I06, con coordinate: (53.000000, 85.980003)
+
+Cella denominata: G28, con coordinate: (265.000000, 123.440002)
+Cella denominata: G30, con coordinate: (284.000000, 123.440002)
+Cella denominata: G32, con coordinate: (303.000000, 123.440002)
+
+Cella denominata: B43, con coordinate: (410.500000, 219.350006)
+Cella denominata: B45, con coordinate: (429.500000, 219.350006)
+Cella denominata: A44, con coordinate: (420.000000, 235.800003)
+Cella denominata: A46, con coordinate: (439.000000, 235.800003)
+
+Cella denominata: L49, con coordinate: (470.500000, 32.070000)
+Cella denominata: L51, con coordinate: (489.500000, 32.070000)
+Cella denominata: L53, con coordinate: (508.500000, 32.070000)
+
+
+
+Movimento 32
+Cella denominata: K04, con coordinate: (34.000000, 48.529999)
+
+Cella denominata: H27, con coordinate: (255.500000, 106.980003)
+Cella denominata: H29, con coordinate: (274.500000, 106.980003)
+Cella denominata: H31, con coordinate: (293.500000, 106.980003)
+
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: B43, con coordinate: (410.500000, 219.350006)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+Cella denominata: A44, con coordinate: (420.000000, 235.800003)
+
+Cella denominata: K48, con coordinate: (461.000000, 48.529999)
+Cella denominata: K50, con coordinate: (480.000000, 48.529999)
+Cella denominata: K52, con coordinate: (499.000000, 48.529999)
+
+
+
+Movimento 33
+Cella denominata: K02, con coordinate: (15.000000, 48.529999)
+
+Cella denominata: I26, con coordinate: (246.000000, 85.980003)
+Cella denominata: I28, con coordinate: (265.000000, 85.980003)
+Cella denominata: I30, con coordinate: (284.000000, 85.980003)
+
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+
+Cella denominata: J47, con coordinate: (451.500000, 69.529999)
+Cella denominata: J49, con coordinate: (470.500000, 69.529999)
+Cella denominata: J51, con coordinate: (489.500000, 69.529999)
+
+
+
+Movimento 34
+Cella denominata: L01, con coordinate: (5.500000, 32.070000)
+
+Cella denominata: J25, con coordinate: (236.500000, 69.529999)
+Cella denominata: J27, con coordinate: (255.500000, 69.529999)
+Cella denominata: J29, con coordinate: (274.500000, 69.529999)
+
+Cella denominata: B37, con coordinate: (353.500000, 219.350006)
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: A38, con coordinate: (363.000000, 235.800003)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+
+Cella denominata: I48, con coordinate: (461.000000, 85.980003)
+Cella denominata: I50, con coordinate: (480.000000, 85.980003)
+Cella denominata: I52, con coordinate: (499.000000, 85.980003)
+
+
+
+Movimento 35
+Cella denominata: L03, con coordinate: (24.500000, 32.070000)
+
+Cella denominata: K24, con coordinate: (227.000000, 48.529999)
+Cella denominata: K26, con coordinate: (246.000000, 48.529999)
+Cella denominata: K28, con coordinate: (265.000000, 48.529999)
+
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: B37, con coordinate: (353.500000, 219.350006)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+Cella denominata: A38, con coordinate: (363.000000, 235.800003)
+
+Cella denominata: H49, con coordinate: (470.500000, 106.980003)
+Cella denominata: H51, con coordinate: (489.500000, 106.980003)
+Cella denominata: H53, con coordinate: (508.500000, 106.980003)
+
+
+
+Movimento 36
+Cella denominata: M04, con coordinate: (34.000000, 11.070000)
+
+Cella denominata: L23, con coordinate: (217.500000, 32.070000)
+Cella denominata: L25, con coordinate: (236.500000, 32.070000)
+Cella denominata: L27, con coordinate: (255.500000, 32.070000)
+
+Cella denominata: B33, con coordinate: (315.500000, 219.350006)
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: A34, con coordinate: (325.000000, 235.800003)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+
+Cella denominata: G50, con coordinate: (480.000000, 123.440002)
+Cella denominata: G52, con coordinate: (499.000000, 123.440002)
+Cella denominata: G54, con coordinate: (518.000000, 123.440002)
+
+
+
+Movimento 37
+Cella denominata: N05, con coordinate: (43.500000, -5.380000)
+
+Cella denominata: M22, con coordinate: (208.000000, 11.070000)
+Cella denominata: M24, con coordinate: (227.000000, 11.070000)
+Cella denominata: M26, con coordinate: (246.000000, 11.070000)
+
+Cella denominata: B33, con coordinate: (315.500000, 219.350006)
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: A34, con coordinate: (325.000000, 235.800003)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+
+Cella denominata: G44, con coordinate: (420.000000, 123.440002)
+Cella denominata: G46, con coordinate: (439.000000, 123.440002)
+Cella denominata: G48, con coordinate: (458.000000, 123.440002)
+
+
+
+Movimento 38
+Cella denominata: M06, con coordinate: (53.000000, 11.070000)
+
+Cella denominata: N21, con coordinate: (198.500000, -5.380000)
+Cella denominata: N23, con coordinate: (217.500000, -5.380000)
+Cella denominata: N25, con coordinate: (236.500000, -5.380000)
+
+Cella denominata: B33, con coordinate: (315.500000, 219.350006)
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: A34, con coordinate: (325.000000, 235.800003)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+
+Cella denominata: H43, con coordinate: (410.500000, 106.980003)
+Cella denominata: H45, con coordinate: (429.500000, 106.980003)
+Cella denominata: H47, con coordinate: (448.500000, 106.980003)
+
+
+
+Movimento 39
+Cella denominata: N07, con coordinate: (62.500000, -5.380000)
+
+Cella denominata: N13, con coordinate: (119.500000, -5.380000)
+Cella denominata: N15, con coordinate: (138.500000, -5.380000)
+Cella denominata: N17, con coordinate: (157.500000, -5.380000)
+
+Cella denominata: B33, con coordinate: (315.500000, 219.350006)
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: A34, con coordinate: (325.000000, 235.800003)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+
+Cella denominata: I42, con coordinate: (401.000000, 85.980003)
+Cella denominata: I44, con coordinate: (420.000000, 85.980003)
+Cella denominata: I46, con coordinate: (439.000000, 85.980003)
+
+
+
+Movimento 40
+Cella denominata: M08, con coordinate: (72.000000, 11.070000)
+
+Cella denominata: M12, con coordinate: (110.000000, 11.070000)
+Cella denominata: M14, con coordinate: (129.000000, 11.070000)
+Cella denominata: M16, con coordinate: (148.000000, 11.070000)
+
+Cella denominata: B33, con coordinate: (315.500000, 219.350006)
+Cella denominata: B35, con coordinate: (334.500000, 219.350006)
+Cella denominata: A34, con coordinate: (325.000000, 235.800003)
+Cella denominata: A36, con coordinate: (344.000000, 235.800003)
+
+Cella denominata: J41, con coordinate: (391.500000, 69.529999)
+Cella denominata: J43, con coordinate: (410.500000, 69.529999)
+Cella denominata: J45, con coordinate: (429.500000, 69.529999)
+
+
+
+Movimento 41
+Cella denominata: N09, con coordinate: (81.500000, -5.380000)
+
+Cella denominata: N31, con coordinate: (296.500000, -5.380000)
+Cella denominata: N33, con coordinate: (315.500000, -5.380000)
+Cella denominata: N35, con coordinate: (334.500000, -5.380000)
+
+Cella denominata: B37, con coordinate: (353.500000, 219.350006)
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: A38, con coordinate: (363.000000, 235.800003)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+
+Cella denominata: I42, con coordinate: (401.000000, 85.980003)
+Cella denominata: I44, con coordinate: (420.000000, 85.980003)
+Cella denominata: I46, con coordinate: (439.000000, 85.980003)
+
+
+
+Movimento 42
+Cella denominata: M10, con coordinate: (91.000000, 11.070000)
+
+Cella denominata: M32, con coordinate: (306.000000, 11.070000)
+Cella denominata: M34, con coordinate: (325.000000, 11.070000)
+Cella denominata: M36, con coordinate: (344.000000, 11.070000)
+
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+
+Cella denominata: H43, con coordinate: (410.500000, 106.980003)
+Cella denominata: H45, con coordinate: (429.500000, 106.980003)
+Cella denominata: H47, con coordinate: (448.500000, 106.980003)
+
+
+
+Movimento 43
+Cella denominata: N11, con coordinate: (100.500000, -5.380000)
+
+Cella denominata: L31, con coordinate: (296.500000, 32.070000)
+Cella denominata: L33, con coordinate: (315.500000, 32.070000)
+Cella denominata: L35, con coordinate: (334.500000, 32.070000)
+
+Cella denominata: B37, con coordinate: (353.500000, 219.350006)
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: A38, con coordinate: (363.000000, 235.800003)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+
+Cella denominata: H41, con coordinate: (391.500000, 106.980003)
+Cella denominata: H43, con coordinate: (410.500000, 106.980003)
+Cella denominata: H45, con coordinate: (429.500000, 106.980003)
+
+
+
+Movimento 44
+Cella denominata: L17, con coordinate: (157.500000, 32.070000)
+
+Cella denominata: K32, con coordinate: (306.000000, 48.529999)
+Cella denominata: K34, con coordinate: (325.000000, 48.529999)
+Cella denominata: K36, con coordinate: (344.000000, 48.529999)
+
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+
+Cella denominata: H43, con coordinate: (410.500000, 106.980003)
+Cella denominata: H45, con coordinate: (429.500000, 106.980003)
+Cella denominata: H47, con coordinate: (448.500000, 106.980003)
+
+
+
+Movimento 45
+Cella denominata: K18, con coordinate: (167.000000, 48.529999)
+
+Cella denominata: J33, con coordinate: (315.500000, 69.529999)
+Cella denominata: J35, con coordinate: (334.500000, 69.529999)
+Cella denominata: J37, con coordinate: (353.500000, 69.529999)
+
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: B43, con coordinate: (410.500000, 219.350006)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+Cella denominata: A44, con coordinate: (420.000000, 235.800003)
+
+Cella denominata: F45, con coordinate: (429.500000, 144.440002)
+Cella denominata: F47, con coordinate: (448.500000, 144.440002)
+Cella denominata: F49, con coordinate: (467.500000, 144.440002)
+
+
+
+Movimento 46
+Cella denominata: L19, con coordinate: (179.500000, 32.070000)
+
+Cella denominata: I34, con coordinate: (325.000000, 85.980003)
+Cella denominata: I36, con coordinate: (344.000000, 85.980003)
+Cella denominata: I38, con coordinate: (363.000000, 85.980003)
+
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+
+Cella denominata: C44, con coordinate: (420.000000, 198.350006)
+Cella denominata: C46, con coordinate: (439.000000, 198.350006)
+Cella denominata: C48, con coordinate: (458.000000, 198.350006)
+
+
+
+Movimento 47
+Cella denominata: L21, con coordinate: (198.500000, 32.070000)
+
+Cella denominata: H33, con coordinate: (315.500000, 106.980003)
+Cella denominata: H35, con coordinate: (334.500000, 106.980003)
+Cella denominata: H37, con coordinate: (353.500000, 106.980003)
+
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: B43, con coordinate: (410.500000, 219.350006)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+Cella denominata: A44, con coordinate: (420.000000, 235.800003)
+
+Cella denominata: C46, con coordinate: (439.000000, 198.350006)
+Cella denominata: C48, con coordinate: (458.000000, 198.350006)
+Cella denominata: C50, con coordinate: (477.000000, 198.350006)
+
+
+
+Movimento 48
+Cella denominata: K20, con coordinate: (189.000000, 48.529999)
+
+Cella denominata: G34, con coordinate: (325.000000, 123.440002)
+Cella denominata: G36, con coordinate: (344.000000, 123.440002)
+Cella denominata: G38, con coordinate: (363.000000, 123.440002)
+
+Cella denominata: B39, con coordinate: (372.500000, 219.350006)
+Cella denominata: B41, con coordinate: (391.500000, 219.350006)
+Cella denominata: A40, con coordinate: (382.000000, 235.800003)
+Cella denominata: A42, con coordinate: (401.000000, 235.800003)
+
+Cella denominata: C44, con coordinate: (420.000000, 198.350006)
+Cella denominata: C46, con coordinate: (439.000000, 198.350006)
+Cella denominata: C48, con coordinate: (458.000000, 198.350006)
+
+
+
+Movimento 49
+Cella denominata: K22, con coordinate: (208.000000, 48.529999)
+
+Cella denominata: K38, con coordinate: (363.000000, 48.529999)
+Cella denominata: K40, con coordinate: (382.000000, 48.529999)
+Cella denominata: K42, con coordinate: (401.000000, 48.529999)
+
+Cella denominata: B43, con coordinate: (410.500000, 219.350006)
+Cella denominata: B45, con coordinate: (429.500000, 219.350006)
+Cella denominata: A44, con coordinate: (420.000000, 235.800003)
+Cella denominata: A46, con coordinate: (439.000000, 235.800003)
+
+Cella denominata: B47, con coordinate: (448.500000, 219.350006)
+Cella denominata: B49, con coordinate: (467.500000, 219.350006)
+Cella denominata: B51, con coordinate: (486.500000, 219.350006)
+
+
+
+Movimento 50
+Cella denominata: J21, con coordinate: (198.500000, 69.529999)
+
+Cella denominata: L37, con coordinate: (353.500000, 32.070000)
+Cella denominata: L39, con coordinate: (372.500000, 32.070000)
+Cella denominata: L41, con coordinate: (391.500000, 32.070000)
+
+Cella denominata: B45, con coordinate: (429.500000, 219.350006)
+Cella denominata: B47, con coordinate: (448.500000, 219.350006)
+Cella denominata: A46, con coordinate: (439.000000, 235.800003)
+Cella denominata: A48, con coordinate: (458.000000, 235.800003)
+
+Cella denominata: C52, con coordinate: (499.000000, 198.350006)
+Cella denominata: C54, con coordinate: (518.000000, 198.350006)
+Cella denominata: C56, con coordinate: (537.000000, 198.350006)
+
+
+
+Movimento 51
+Cella denominata: I22, con coordinate: (208.000000, 85.980003)
+
+Cella denominata: M38, con coordinate: (363.000000, 11.070000)
+Cella denominata: M40, con coordinate: (382.000000, 11.070000)
+Cella denominata: M42, con coordinate: (401.000000, 11.070000)
+
+Cella denominata: B43, con coordinate: (410.500000, 219.350006)
+Cella denominata: B45, con coordinate: (429.500000, 219.350006)
+Cella denominata: A44, con coordinate: (420.000000, 235.800003)
+Cella denominata: A46, con coordinate: (439.000000, 235.800003)
+
+Cella denominata: C54, con coordinate: (518.000000, 198.350006)
+Cella denominata: C56, con coordinate: (537.000000, 198.350006)
+Cella denominata: C58, con coordinate: (556.000000, 198.350006)
+
+
+
+Movimento 52
+Cella denominata: J23, con coordinate: (217.500000, 69.529999)
+
+Cella denominata: N37, con coordinate: (353.500000, -5.380000)
+Cella denominata: N39, con coordinate: (372.500000, -5.380000)
+Cella denominata: N41, con coordinate: (391.500000, -5.380000)
+
+Cella denominata: B45, con coordinate: (429.500000, 219.350006)
+Cella denominata: B47, con coordinate: (448.500000, 219.350006)
+Cella denominata: A46, con coordinate: (439.000000, 235.800003)
+Cella denominata: A48, con coordinate: (458.000000, 235.800003)
+
+Cella denominata: C52, con coordinate: (499.000000, 198.350006)
+Cella denominata: C54, con coordinate: (518.000000, 198.350006)
+Cella denominata: C56, con coordinate: (537.000000, 198.350006)
+
+
+
+Movimento 53
+Cella denominata: I24, con coordinate: (227.000000, 85.980003)
+
+Cella denominata: M44, con coordinate: (423.000000, 11.070000)
+Cella denominata: M46, con coordinate: (442.000000, 11.070000)
+Cella denominata: M48, con coordinate: (461.000000, 11.070000)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: D57, con coordinate: (546.500000, 181.889999)
+Cella denominata: D59, con coordinate: (565.500000, 181.889999)
+Cella denominata: D61, con coordinate: (584.500000, 181.889999)
+
+
+
+Movimento 54
+Cella denominata: H23, con coordinate: (217.500000, 106.980003)
+
+Cella denominata: N45, con coordinate: (432.500000, -5.380000)
+Cella denominata: N47, con coordinate: (451.500000, -5.380000)
+Cella denominata: N49, con coordinate: (470.500000, -5.380000)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: D59, con coordinate: (565.500000, 181.889999)
+Cella denominata: D61, con coordinate: (584.500000, 181.889999)
+Cella denominata: D63, con coordinate: (603.500000, 181.889999)
+
+
+
+Movimento 55
+Cella denominata: H25, con coordinate: (236.500000, 106.980003)
+
+Cella denominata: L45, con coordinate: (432.500000, 32.070000)
+Cella denominata: L47, con coordinate: (451.500000, 32.070000)
+Cella denominata: L49, con coordinate: (470.500000, 32.070000)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: D57, con coordinate: (546.500000, 181.889999)
+Cella denominata: D59, con coordinate: (565.500000, 181.889999)
+Cella denominata: D61, con coordinate: (584.500000, 181.889999)
+
+
+
+Movimento 56
+Cella denominata: G24, con coordinate: (227.000000, 123.440002)
+
+Cella denominata: J51, con coordinate: (489.500000, 69.529999)
+Cella denominata: J53, con coordinate: (508.500000, 69.529999)
+Cella denominata: J55, con coordinate: (527.500000, 69.529999)
+
+Cella denominata: B57, con coordinate: (546.500000, 219.350006)
+Cella denominata: B59, con coordinate: (565.500000, 219.350006)
+Cella denominata: A58, con coordinate: (556.000000, 235.800003)
+Cella denominata: A60, con coordinate: (575.000000, 235.800003)
+
+Cella denominata: F61, con coordinate: (584.500000, 144.440002)
+Cella denominata: F63, con coordinate: (603.500000, 144.440002)
+Cella denominata: F65, con coordinate: (622.500000, 144.440002)
+
+
+
+Movimento 57
+Cella denominata: G26, con coordinate: (246.000000, 123.440002)
+
+Cella denominata: I52, con coordinate: (499.000000, 85.980003)
+Cella denominata: I54, con coordinate: (518.000000, 85.980003)
+Cella denominata: I56, con coordinate: (537.000000, 85.980003)
+
+Cella denominata: B59, con coordinate: (565.500000, 219.350006)
+Cella denominata: B61, con coordinate: (584.500000, 219.350006)
+Cella denominata: A60, con coordinate: (575.000000, 235.800003)
+Cella denominata: A62, con coordinate: (594.000000, 235.800003)
+
+- Testa a riposo -
+
+
+
+Movimento 58
+Cella denominata: G22, con coordinate: (205.000000, 123.440002)
+
+Cella denominata: H53, con coordinate: (508.500000, 106.980003)
+Cella denominata: H55, con coordinate: (527.500000, 106.980003)
+Cella denominata: H57, con coordinate: (546.500000, 106.980003)
+
+Cella denominata: B61, con coordinate: (584.500000, 219.350006)
+Cella denominata: B63, con coordinate: (603.500000, 219.350006)
+Cella denominata: A62, con coordinate: (594.000000, 235.800003)
+Cella denominata: A64, con coordinate: (613.000000, 235.800003)
+
+- Testa a riposo -
+
+
+
+Movimento 59
+Cella denominata: H21, con coordinate: (195.500000, 106.980003)
+
+Cella denominata: G54, con coordinate: (518.000000, 123.440002)
+Cella denominata: G56, con coordinate: (537.000000, 123.440002)
+Cella denominata: G58, con coordinate: (556.000000, 123.440002)
+
+Cella denominata: B59, con coordinate: (565.500000, 219.350006)
+Cella denominata: B61, con coordinate: (584.500000, 219.350006)
+Cella denominata: A60, con coordinate: (575.000000, 235.800003)
+Cella denominata: A62, con coordinate: (594.000000, 235.800003)
+
+- Testa a riposo -
+
+
+
+Movimento 60
+Cella denominata: I20, con coordinate: (186.000000, 85.980003)
+
+Cella denominata: D51, con coordinate: (489.500000, 181.889999)
+Cella denominata: D53, con coordinate: (508.500000, 181.889999)
+Cella denominata: D55, con coordinate: (527.500000, 181.889999)
+
+Cella denominata: B57, con coordinate: (546.500000, 219.350006)
+Cella denominata: B59, con coordinate: (565.500000, 219.350006)
+Cella denominata: A58, con coordinate: (556.000000, 235.800003)
+Cella denominata: A60, con coordinate: (575.000000, 235.800003)
+
+Cella denominata: H61, con coordinate: (584.500000, 106.980003)
+Cella denominata: H63, con coordinate: (603.500000, 106.980003)
+Cella denominata: H65, con coordinate: (622.500000, 106.980003)
+
+
+
+Movimento 61
+Cella denominata: J19, con coordinate: (176.500000, 69.529999)
+
+Cella denominata: C40, con coordinate: (382.000000, 198.350006)
+Cella denominata: C42, con coordinate: (401.000000, 198.350006)
+Cella denominata: C44, con coordinate: (420.000000, 198.350006)
+
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: B57, con coordinate: (546.500000, 219.350006)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+Cella denominata: A58, con coordinate: (556.000000, 235.800003)
+
+Cella denominata: K60, con coordinate: (575.000000, 48.529999)
+Cella denominata: K62, con coordinate: (594.000000, 48.529999)
+Cella denominata: K64, con coordinate: (613.000000, 48.529999)
+
+
+
+Movimento 62
+Cella denominata: M18, con coordinate: (170.000000, 11.070000)
+
+Cella denominata: G40, con coordinate: (382.000000, 123.440002)
+Cella denominata: G42, con coordinate: (401.000000, 123.440002)
+Cella denominata: G44, con coordinate: (420.000000, 123.440002)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: L59, con coordinate: (565.500000, 32.070000)
+Cella denominata: L61, con coordinate: (584.500000, 32.070000)
+Cella denominata: L63, con coordinate: (603.500000, 32.070000)
+
+
+
+Movimento 63
+Cella denominata: N19, con coordinate: (179.500000, -5.380000)
+
+Cella denominata: M26, con coordinate: (246.000000, 11.070000)
+Cella denominata: M28, con coordinate: (265.000000, 11.070000)
+Cella denominata: M30, con coordinate: (284.000000, 11.070000)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: N61, con coordinate: (584.500000, -5.380000)
+Cella denominata: N63, con coordinate: (603.500000, -5.380000)
+Cella denominata: N65, con coordinate: (622.500000, -5.380000)
+
+
+
+Movimento 64
+Cella denominata: M20, con coordinate: (189.000000, 11.070000)
+
+Cella denominata: N25, con coordinate: (236.500000, -5.380000)
+Cella denominata: N27, con coordinate: (255.500000, -5.380000)
+Cella denominata: N29, con coordinate: (274.500000, -5.380000)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: M60, con coordinate: (575.000000, 11.070000)
+Cella denominata: M62, con coordinate: (594.000000, 11.070000)
+Cella denominata: M64, con coordinate: (613.000000, 11.070000)
+
+
+
+Movimento 65
+Cella denominata: L29, con coordinate: (274.500000, 32.070000)
+
+Cella denominata: N31, con coordinate: (296.500000, -5.380000)
+Cella denominata: N33, con coordinate: (315.500000, -5.380000)
+Cella denominata: N35, con coordinate: (334.500000, -5.380000)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: N61, con coordinate: (584.500000, -5.380000)
+Cella denominata: N63, con coordinate: (603.500000, -5.380000)
+Cella denominata: N65, con coordinate: (622.500000, -5.380000)
+
+
+
+Movimento 66
+Cella denominata: K30, con coordinate: (284.000000, 48.529999)
+
+Cella denominata: M32, con coordinate: (306.000000, 11.070000)
+Cella denominata: M34, con coordinate: (325.000000, 11.070000)
+Cella denominata: M36, con coordinate: (344.000000, 11.070000)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: J59, con coordinate: (565.500000, 69.529999)
+Cella denominata: J61, con coordinate: (584.500000, 69.529999)
+Cella denominata: J63, con coordinate: (603.500000, 69.529999)
+
+
+
+Movimento 67
+Cella denominata: J31, con coordinate: (293.500000, 69.529999)
+
+Cella denominata: J35, con coordinate: (334.500000, 69.529999)
+Cella denominata: J37, con coordinate: (353.500000, 69.529999)
+Cella denominata: J39, con coordinate: (372.500000, 69.529999)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: I60, con coordinate: (575.000000, 85.980003)
+Cella denominata: I62, con coordinate: (594.000000, 85.980003)
+Cella denominata: I64, con coordinate: (613.000000, 85.980003)
+
+
+
+Movimento 68
+Cella denominata: I32, con coordinate: (303.000000, 85.980003)
+
+Cella denominata: I36, con coordinate: (344.000000, 85.980003)
+Cella denominata: I38, con coordinate: (363.000000, 85.980003)
+Cella denominata: I40, con coordinate: (382.000000, 85.980003)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: J59, con coordinate: (565.500000, 69.529999)
+Cella denominata: J61, con coordinate: (584.500000, 69.529999)
+Cella denominata: J63, con coordinate: (603.500000, 69.529999)
+
+
+
+Movimento 69
+Cella denominata: H39, con coordinate: (372.500000, 106.980003)
+
+Cella denominata: I42, con coordinate: (401.000000, 85.980003)
+Cella denominata: I44, con coordinate: (420.000000, 85.980003)
+Cella denominata: I46, con coordinate: (439.000000, 85.980003)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: I58, con coordinate: (556.000000, 85.980003)
+Cella denominata: I60, con coordinate: (575.000000, 85.980003)
+Cella denominata: I62, con coordinate: (594.000000, 85.980003)
+
+
+
+Movimento 70
+Cella denominata: K44, con coordinate: (420.000000, 48.529999)
+
+Cella denominata: J47, con coordinate: (451.500000, 69.529999)
+Cella denominata: J49, con coordinate: (470.500000, 69.529999)
+Cella denominata: J51, con coordinate: (489.500000, 69.529999)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: J57, con coordinate: (546.500000, 69.529999)
+Cella denominata: J59, con coordinate: (565.500000, 69.529999)
+Cella denominata: J61, con coordinate: (584.500000, 69.529999)
+
+
+
+Movimento 71
+Cella denominata: L43, con coordinate: (410.500000, 32.070000)
+
+Cella denominata: K46, con coordinate: (442.000000, 48.529999)
+Cella denominata: K48, con coordinate: (461.000000, 48.529999)
+Cella denominata: K50, con coordinate: (480.000000, 48.529999)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: I58, con coordinate: (556.000000, 85.980003)
+Cella denominata: I60, con coordinate: (575.000000, 85.980003)
+Cella denominata: I62, con coordinate: (594.000000, 85.980003)
+
+
+
+Movimento 72
+Cella denominata: N43, con coordinate: (410.500000, -5.380000)
+
+Cella denominata: K50, con coordinate: (480.000000, 48.529999)
+Cella denominata: K52, con coordinate: (499.000000, 48.529999)
+Cella denominata: K54, con coordinate: (518.000000, 48.529999)
+
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: B57, con coordinate: (546.500000, 219.350006)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+Cella denominata: A58, con coordinate: (556.000000, 235.800003)
+
+Cella denominata: J59, con coordinate: (565.500000, 69.529999)
+Cella denominata: J61, con coordinate: (584.500000, 69.529999)
+Cella denominata: J63, con coordinate: (603.500000, 69.529999)
+
+
+
+Movimento 73
+Cella denominata: M42, con coordinate: (401.000000, 11.070000)
+
+Cella denominata: D45, con coordinate: (429.500000, 181.889999)
+Cella denominata: D47, con coordinate: (448.500000, 181.889999)
+Cella denominata: D49, con coordinate: (467.500000, 181.889999)
+
+Cella denominata: B53, con coordinate: (508.500000, 219.350006)
+Cella denominata: B55, con coordinate: (527.500000, 219.350006)
+Cella denominata: A54, con coordinate: (518.000000, 235.800003)
+Cella denominata: A56, con coordinate: (537.000000, 235.800003)
+
+Cella denominata: I58, con coordinate: (556.000000, 85.980003)
+Cella denominata: I60, con coordinate: (575.000000, 85.980003)
+Cella denominata: I62, con coordinate: (594.000000, 85.980003)
+
+
+
