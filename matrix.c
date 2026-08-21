@@ -57,10 +57,11 @@ int checkDuplicati(Matrice m, int* v)
     for(i=0; i<m->dim; i++)
     {
         int j = 0;
-        while((a=m->v[i][j++])!=-1)
+        while((a=m->v[i][j])!=-1)
         {
-            vett[j] = a;
+            vett[j++] = a;
         }
+        vett[j] = -1;
         if(equalVett(vett, v))
             return 1;
     }

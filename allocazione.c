@@ -48,7 +48,7 @@ void allocaTeste(teste* tes, int n)
     testa t;
     creaTeste(& (*tes));
     void* service = NULL;
-    char nome[L]; char line[L]; float x1; float y1; float x2; float y2; float offset;
+    char nome[L]; char line[LLENGTH]; float x1; float y1; float x2; float y2; float offset;
 
     int i;
     for(i=0; i<n; i++)

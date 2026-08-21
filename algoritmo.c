@@ -144,7 +144,7 @@ void path(celle c, int card, Matrice m)
     cella* insieme = getInsieme(c);
     int dim = getDimC(c);
 
-    int* coll = malloc(card*sizeof(int));
+    int* coll = malloc((card+1)*sizeof(int));
     int i;
     for(i=0; i<dim; i++)
     {
