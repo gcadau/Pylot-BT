@@ -62,10 +62,10 @@ The repo is organized **by branch**: the data-structure layer was built first, t
 | `Algoritmo-versione-2.0` | Dec 7 | **v2** — exploration of the whole solution space |
 | `Algoritmo-versione-3.0` | Nov 28 | **v3** — exploration + idle heads |
 | `Algoritmo-versione-4.0` | Dec 9 | **v4** — merge of v2+v3, multiple candidate choices per step |
-| `algoritmo-versione-5.0` | Dec 10 | **v5** — refinement track (5.1.1.5.2) |
+| `Algoritmo-versione-5.0` | Dec 10 | **v5** — refinement track (5.1.1.5.2) |
 | `test` | Dec 10 | Java output-invariant checker |
 | `Algoritmo-versione-7.0` | Dec 15 | **v7** — fully exhaustive search with backtracking and incumbent memorization |
-| `algoritmo-versione-6.0` | **Dec 16** | **v6 — final (6.3.1)**: multi-start over all feasible start combinations, phase-guided group selection, idle-head partitioning, backtracking, branch-and-bound, solution written to `Dati/Output.txt` |
+| `Algoritmo-versione-6.0` | **Dec 16** | **v6 — final (6.3.1)**: multi-start over all feasible start combinations, phase-guided group selection, idle-head partitioning, backtracking, branch-and-bound, solution written to `Dati/Output.txt` |
 
 The chronology tells the engineering story: after v7 confirmed that fully exhaustive search does not scale to the full pack, the v6 line — exhaustive **only where it pays** (start configurations, idle-head patterns) and greedy-guided elsewhere — was continued as the final track.
 
