@@ -94,7 +94,7 @@ A group's **phase** counts how many of its cells are already probed; the per-ste
 Developed on Windows/CLion in 2019; builds unchanged on Linux/macOS from any algorithm-version branch:
 
 ```bash
-git checkout algoritmo-versione-6.0
+git checkout Algoritmo-versione-6.0
 gcc -std=gnu99 -O2 *.c -o pylot -lm     # or: make (Makefile in master)
 ./pylot                                  # reads ./Dati, writes Dati/Output.txt (v6+)
 ```
